@@ -1,0 +1,11 @@
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    list-style-image: url(../Downloads/pexels-kamtbic-2152774479-32956257.jpg);
+}
+ol{
+     list-style-type: square;
+    list-style-position: outside;
+    background-color: aqua;
+    color: aliceblue;
+}
