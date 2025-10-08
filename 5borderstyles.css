@@ -1,0 +1,42 @@
+.head{
+    
+    border-color: aqua;
+    border-width: 10px;
+    border-top-style: dotted ;
+    border-left-style: double;
+    border-bottom-style: groove;
+    border-right-style: inset;
+    border-radius: 25px;
+
+}
+h2{
+    border-style: dashed dotted double solid;
+}
+h3{
+    border-style: dashed dotted double ;
+    
+}
+h4{
+   border-style: dashed dotted ;
+}
+h6{
+    border-style: dashed ;
+}
+.tie{
+    border-style: inset;
+    border-color:red;
+    border-width: 10px;
+    
+}
+.hs{
+    border-style: outset;
+    border-color: yellowgreen;
+    border-width: 10px;
+    
+}
+.js{
+    border-style: solid;
+    border-color:pink;
+    border-width: 10px;
+    
+}
