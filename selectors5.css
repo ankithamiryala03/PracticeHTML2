@@ -1,0 +1,19 @@
+.head1{
+    background-color: aquamarine;
+    color: aliceblue;
+    padding: 10px;
+}
+.tie{
+    background-color: aqua;
+    color: whitesmoke;
+    padding: 10px;
+}
+*{
+    background-color: blueviolet;
+    color: white;
+}
+
+h1,h2{
+    background-color: black;
+    color: whitesmoke;
+}
