@@ -1,0 +1,29 @@
+.tie{
+    margin:20px;
+}
+.head{
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+
+
+.js{
+    border-style: dashed;
+    border-color: black;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.ko{
+    
+    border-style: dashed;
+    border-color: aqua;
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+
+}
