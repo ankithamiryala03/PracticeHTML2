@@ -1,0 +1,10 @@
+.head{
+    width:600px;
+    height:400px;
+    background-image: radial-gradient(circle,blue,green,pink);
+}
+.tie{
+    width:400px;
+    height:600px;
+    background-image: repeating-radial-gradient( white,black 5%,blue 5%);
+}
