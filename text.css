@@ -1,0 +1,16 @@
+.tie{
+    text-transform: uppercase;
+    text-decoration-style:dashed ;
+}
+.head{
+    text-decoration-line:underline;
+}
+.js{
+    text-decoration-style:dashed;
+    text-decoration-color:blue;
+}
+.ms{
+    text-align: center;
+    text-decoration-style:wavy ;
+    text-decoration-color: aqua;
+}
