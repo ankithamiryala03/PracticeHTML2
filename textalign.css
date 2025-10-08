@@ -1,0 +1,13 @@
+.ms{
+    text-indent: 10px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 50px;
+    text-align: justify;
+    color:blueviolet;
+    background-image:url(../Downloads/pexels-kamtbic-2152774479-32956257.jpg);
+    background-size: 100% 600%;
+   }
+h1{
+    text-align: center;
+}
