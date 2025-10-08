@@ -1,0 +1,30 @@
+.js{
+    font-style: normal;
+}
+.ko{
+    font-style: italic;
+}
+.ht{
+    font-style: oblique;
+}
+.it{
+    font-weight: normal;
+}
+.ms{
+    font-weight: bold;
+}
+.gs{
+    font-size: 10px;
+}
+.ki{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mat{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pat{
+    font: oblique bold  20px  couier,sanseri,sans-serif ;
+}
